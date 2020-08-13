@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "numerical_integration", "numerical_integration\numerical_integration.vcproj", "{340F972B-1E01-4BB9-9A33-9C85966CDEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340F972B-1E01-4BB9-9A33-9C85966CDEDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{340F972B-1E01-4BB9-9A33-9C85966CDEDD}.Debug|Win32.Build.0 = Debug|Win32
+		{340F972B-1E01-4BB9-9A33-9C85966CDEDD}.Release|Win32.ActiveCfg = Release|Win32
+		{340F972B-1E01-4BB9-9A33-9C85966CDEDD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
