@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Floyds-TBB", "Floyds-TBB\Floyds-TBB.vcproj", "{F83BF2AD-35AF-4CEA-94F8-C1FC7D4459FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F83BF2AD-35AF-4CEA-94F8-C1FC7D4459FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F83BF2AD-35AF-4CEA-94F8-C1FC7D4459FD}.Debug|Win32.Build.0 = Debug|Win32
+		{F83BF2AD-35AF-4CEA-94F8-C1FC7D4459FD}.Release|Win32.ActiveCfg = Release|Win32
+		{F83BF2AD-35AF-4CEA-94F8-C1FC7D4459FD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
